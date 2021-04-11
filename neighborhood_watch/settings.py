@@ -84,6 +84,8 @@ DATABASES = {
         'NAME': 'neighborhood_watch',
         'USER': 'bunei1',
         'PASSWORD': 'bunei1',
+        'HOST': 'localhost', # the missing piece of the puzzle 
+        'PORT': '', 
     }
 }
 
