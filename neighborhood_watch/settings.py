@@ -28,7 +28,7 @@ SECRET_KEY = '-s-r2wp_sj%m4p(fw*2!%88p)$yp_7jlts(+*%73jue_rbt2(i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -91,7 +91,7 @@ DATABASES = {
         'NAME': 'neighborhood_watch',
         'USER': 'bunei1',
         'PASSWORD': 'bunei1',
-        'HOST': 'localhost', # the missing piece of the puzzle 
+        'HOST': '127.0.0.1', # the missing piece of the puzzle 
         'PORT': '', 
     }
 }
