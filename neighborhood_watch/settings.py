@@ -31,10 +31,10 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'mtaa_watch''
+    'mtaa_watch',
     'crispy_forms',
     'bootstrap4',
-    'users''
+    'users',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
