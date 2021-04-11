@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'bootstrap4',
     'mtaa_watch',
+    'users'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
