@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'mtaa_watch.apps.MtaaWatchConfig',
     'crispy_forms',
     'bootstrap4',
+    'wkhtmltopdf',
     'users.apps.UsersConfig',
     'django.contrib.admin',
     'django.contrib.auth',
