@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'neighborhood_watch',
-        'USER': 'bunei',
-        'PASSWORD': 'bunei',
+        'USER': 'bunei1',
+        'PASSWORD': 'bunei1',
     }
 }
 
